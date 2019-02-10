@@ -1,2 +1,10 @@
+一：
+1,ajax主要返回以下几种数据格式：
+ 1）HTML
+ 2）xml
+ 3)json (often use)
+
+二：
 1,jQuery的测试，testJqueryAjax.jsp
+   jQuery ajax常用的三种方法。
 2，使用jQuery校验用户名，userRegister.jsp
